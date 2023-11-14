@@ -1,0 +1,30 @@
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\bin\Debug\net6.0\pms.Services.deps.json
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\bin\Debug\net6.0\pms.Services.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\bin\Debug\net6.0\pms.Services.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\bin\Debug\net6.0\DataAccess.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\bin\Debug\net6.0\DataAccess.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\obj\Debug\net6.0\pms.Services.csproj.AssemblyReference.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\obj\Debug\net6.0\pms.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\obj\Debug\net6.0\pms.Services.AssemblyInfoInputs.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\obj\Debug\net6.0\pms.Services.AssemblyInfo.cs
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\obj\Debug\net6.0\pms.Services.csproj.CoreCompileInputs.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\obj\Debug\net6.0\pms.Services.csproj.CopyComplete
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\obj\Debug\net6.0\pms.Services.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\obj\Debug\net6.0\refint\pms.Services.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\obj\Debug\net6.0\pms.Services.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms.Services\obj\Debug\net6.0\ref\pms.Services.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\bin\Debug\net6.0\pms.Services.deps.json
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\bin\Debug\net6.0\pms.Services.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\bin\Debug\net6.0\pms.Services.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\bin\Debug\net6.0\DataAccess.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\bin\Debug\net6.0\DataAccess.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\obj\Debug\net6.0\pms.Services.csproj.AssemblyReference.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\obj\Debug\net6.0\pms.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\obj\Debug\net6.0\pms.Services.AssemblyInfoInputs.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\obj\Debug\net6.0\pms.Services.AssemblyInfo.cs
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\obj\Debug\net6.0\pms.Services.csproj.CoreCompileInputs.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\obj\Debug\net6.0\pms.Services.csproj.CopyComplete
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\obj\Debug\net6.0\pms.Services.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\obj\Debug\net6.0\refint\pms.Services.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\obj\Debug\net6.0\pms.Services.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\obj\Debug\net6.0\ref\pms.Services.dll

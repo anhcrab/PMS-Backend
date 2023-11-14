@@ -1,0 +1,248 @@
+D:\Workspace\pms\bin\Debug\net6.0\appsettings.Development.json
+D:\Workspace\pms\bin\Debug\net6.0\appsettings.json
+D:\Workspace\pms\bin\Debug\net6.0\pms.exe
+D:\Workspace\pms\bin\Debug\net6.0\pms.deps.json
+D:\Workspace\pms\bin\Debug\net6.0\pms.runtimeconfig.json
+D:\Workspace\pms\bin\Debug\net6.0\pms.dll
+D:\Workspace\pms\bin\Debug\net6.0\pms.pdb
+D:\Workspace\pms\bin\Debug\net6.0\Humanizer.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Workspace\pms\bin\Debug\net6.0\MySql.Data.dll
+D:\Workspace\pms\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\Workspace\pms\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workspace\pms\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workspace\pms\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workspace\pms\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Workspace\pms\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Workspace\pms\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Workspace\pms\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\pms\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Workspace\pms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\pms\obj\Debug\net6.0\pms.csproj.AssemblyReference.cache
+D:\Workspace\pms\obj\Debug\net6.0\pms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\pms\obj\Debug\net6.0\pms.AssemblyInfoInputs.cache
+D:\Workspace\pms\obj\Debug\net6.0\pms.AssemblyInfo.cs
+D:\Workspace\pms\obj\Debug\net6.0\pms.csproj.CoreCompileInputs.cache
+D:\Workspace\pms\obj\Debug\net6.0\pms.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\pms\obj\Debug\net6.0\pms.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\pms\obj\Debug\net6.0\staticwebassets\msbuild.pms.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Workspace\pms\obj\Debug\net6.0\staticwebassets\msbuild.build.pms.props
+D:\Workspace\pms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pms.props
+D:\Workspace\pms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pms.props
+D:\Workspace\pms\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Workspace\pms\obj\Debug\net6.0\staticwebassets.build.json
+D:\Workspace\pms\obj\Debug\net6.0\staticwebassets.development.json
+D:\Workspace\pms\obj\Debug\net6.0\scopedcss\bundle\pms.styles.css
+D:\Workspace\pms\obj\Debug\net6.0\pms.csproj.CopyComplete
+D:\Workspace\pms\obj\Debug\net6.0\pms.dll
+D:\Workspace\pms\obj\Debug\net6.0\refint\pms.dll
+D:\Workspace\pms\obj\Debug\net6.0\pms.pdb
+D:\Workspace\pms\obj\Debug\net6.0\pms.genruntimeconfig.cache
+D:\Workspace\pms\obj\Debug\net6.0\ref\pms.dll
+D:\Workspace\pms\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Workspace\pms\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Workspace\pms\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Workspace\pms\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Workspace\pms\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Workspace\pms\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Workspace\pms\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Workspace\pms\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Workspace\pms\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Workspace\pms\bin\Debug\net6.0\System.Text.Json.dll
+D:\Workspace\pms\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Workspace\pms\bin\Debug\net6.0\ZstdSharp.dll
+D:\Workspace\pms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Workspace\pms\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\Workspace\pms\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\Workspace\pms\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Workspace\pms\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\Workspace\pms\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\Workspace\pms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workspace\pms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workspace\pms\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Workspace\pms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\appsettings.Development.json
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\appsettings.json
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\pms.exe
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\pms.deps.json
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\pms.runtimeconfig.json
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\pms.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\pms.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\MySql.Data.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\System.Text.Json.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\ZstdSharp.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\DataAccess.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\pms.Services.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\DataAccess.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\bin\Debug\net6.0\pms.Services.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\pms.csproj.AssemblyReference.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\pms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\pms.AssemblyInfoInputs.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\pms.AssemblyInfo.cs
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\pms.csproj.CoreCompileInputs.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\pms.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\pms.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\staticwebassets\msbuild.pms.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\staticwebassets\msbuild.build.pms.props
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pms.props
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pms.props
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\staticwebassets.build.json
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\staticwebassets.development.json
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\scopedcss\bundle\pms.styles.css
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\pms.csproj.CopyComplete
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\pms.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\refint\pms.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\pms.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\pms.genruntimeconfig.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source code\pms\obj\Debug\net6.0\ref\pms.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\appsettings.Development.json
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\appsettings.json
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\pms.exe
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\pms.deps.json
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\pms.runtimeconfig.json
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\pms.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\pms.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Humanizer.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\MySql.Data.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\System.Text.Json.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\ZstdSharp.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\DataAccess.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\pms.Services.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\pms.Tools.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\DataAccess.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\pms.Services.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\bin\Debug\net6.0\pms.Tools.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.csproj.AssemblyReference.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.AssemblyInfoInputs.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.AssemblyInfo.cs
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.csproj.CoreCompileInputs.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\staticwebassets\msbuild.pms.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\staticwebassets\msbuild.build.pms.props
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pms.props
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pms.props
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\staticwebassets.build.json
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\staticwebassets.development.json
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\scopedcss\bundle\pms.styles.css
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.csproj.CopyComplete
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\refint\pms.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.genruntimeconfig.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\ref\pms.dll

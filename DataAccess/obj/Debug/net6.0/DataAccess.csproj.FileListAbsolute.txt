@@ -1,0 +1,28 @@
+D:\Workspace\Working Processes\PMS - Project Management System\source code\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Workspace\Working Processes\PMS - Project Management System\source code\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Workspace\Working Processes\PMS - Project Management System\source code\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source code\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source code\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Working Processes\PMS - Project Management System\source code\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source code\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Workspace\Working Processes\PMS - Project Management System\source code\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source code\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source code\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source code\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source code\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
