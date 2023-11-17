@@ -230,7 +230,6 @@ D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\De
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.AssemblyInfoInputs.cache
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.AssemblyInfo.cs
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.csproj.CoreCompileInputs.cache
-D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.MvcApplicationPartsAssemblyInfo.cs
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.MvcApplicationPartsAssemblyInfo.cache
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\staticwebassets\msbuild.pms.Microsoft.AspNetCore.StaticWebAssets.props
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\staticwebassets\msbuild.build.pms.props
@@ -246,3 +245,4 @@ D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\De
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.pdb
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.genruntimeconfig.cache
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\ref\pms.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms\obj\Debug\net6.0\pms.MvcApplicationPartsAssemblyInfo.cs

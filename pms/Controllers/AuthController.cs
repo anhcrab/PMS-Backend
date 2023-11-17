@@ -40,6 +40,9 @@ namespace pms.Controllers
             {
                 Success = response.IsSuccess,
                 message = response.Message,
+                response = response
+                // TODO: Đăng ký tài khoản không trả về id của user.
+                // Vậy có nên trả cho user id của họ không ?
             });
         }
 

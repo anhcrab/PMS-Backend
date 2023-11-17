@@ -54,7 +54,6 @@ namespace DataAccess.Repositories.EmployeeRepository
                 _ctx.Employees!.Update(model);
                 await _ctx.SaveChangesAsync();
             }
-            throw new NotImplementedException();
         }
     }
 }
