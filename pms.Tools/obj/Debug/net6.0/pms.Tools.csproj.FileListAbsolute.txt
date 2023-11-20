@@ -13,3 +13,4 @@ D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Tools\
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Tools\obj\Debug\net6.0\refint\pms.Tools.dll
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Tools\obj\Debug\net6.0\pms.Tools.pdb
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Tools\obj\Debug\net6.0\ref\pms.Tools.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Tools\obj\Debug\net6.0\pms.Tools.sourcelink.json

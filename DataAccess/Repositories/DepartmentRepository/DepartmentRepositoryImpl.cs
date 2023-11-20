@@ -23,9 +23,14 @@ namespace DataAccess.Repositories.DepartmentRepository
             return model.Id;
         }
 
-        public Task DeleteAsync(string id)
+        public async Task DeleteAsync(string id)
         {
-            throw new NotImplementedException();
+            var department = _ctx.Departments!.FirstOrDefault(d => d.Id == id);
+            if (department != null)
+            {
+                _ctx.Departments!.Remove(department);
+                await _ctx.SaveChangesAsync();
+            }
         }
 
         public async Task<List<Department>> GetAllAsync()
@@ -39,9 +44,14 @@ namespace DataAccess.Repositories.DepartmentRepository
             return department!;
         }
 
-        public Task UpdateAsync(string id, Department model)
+        public async Task UpdateAsync(string id, Department model)
         {
-            throw new NotImplementedException();
+            var department = _ctx.Departments!.FirstOrDefault(e => e.Id == id);
+            if (department != null)
+            {
+                _ctx.Departments!.Update(model);
+                await _ctx.SaveChangesAsync();
+            }
         }
     }
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "A/2J/TfAlszxDniqtKJZFSohQNBzn8ZjSfwL4khHzaezFuiUGkuMzbftr3/w3f4gGfYlUNYDd7kKnF13CpJgvQ==",
+  "dgSpecHash": "Yz73koKrg0IySKa6LufYU5QTYyBjLjbyxhaSYUJbWTu9KtGDqVJmYLP6LXLSaGU7PzlnPFUr+DLifHIPbtNNSw==",
   "success": true,
   "projectFilePath": "D:\\Workspace\\Working Processes\\PMS - Project Management System\\source\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
@@ -58,7 +58,10 @@
     "C:\\Users\\User\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\zstdsharp.port\\0.7.1\\zstdsharp.port.0.7.1.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\zstdsharp.port\\0.7.1\\zstdsharp.port.0.7.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
   ],
   "logs": []
 }

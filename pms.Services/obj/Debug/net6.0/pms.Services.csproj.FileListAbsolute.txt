@@ -28,3 +28,4 @@ D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Servic
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\obj\Debug\net6.0\refint\pms.Services.dll
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\obj\Debug\net6.0\pms.Services.pdb
 D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\obj\Debug\net6.0\ref\pms.Services.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\pms.Services\obj\Debug\net6.0\pms.Services.sourcelink.json

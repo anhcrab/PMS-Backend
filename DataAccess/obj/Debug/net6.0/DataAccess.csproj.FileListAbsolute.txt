@@ -26,3 +26,4 @@ D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess
 D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
 D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\Workspace\Working Processes\PMS - Project Management System\source\DataAccess\obj\Debug\net6.0\DataAccess.sourcelink.json
