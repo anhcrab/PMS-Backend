@@ -1,38 +1,82 @@
-﻿using DataAccess.Repositories.EmployeeRepository;
+﻿using DataAccess.Repositories.DepartmentRepository;
+using DataAccess.Repositories.EmployeeRepository;
 using Modules.Employees.Controllers.Manager.ViewModels.EmployeeVM;
 
 namespace Modules.Employees.Controllers.Manager.Services
 {
     public class ManagerEmployeeService
     {
-        private readonly IEmployeeRepository _repo;
+        private readonly IEmployeeRepository _erepo;
+        private readonly IDepartmentRepository _drepo;
 
-        public ManagerEmployeeService(IEmployeeRepository repo)
+        public ManagerEmployeeService(IEmployeeRepository erepo, IDepartmentRepository drepo)
         {
-            _repo = repo;
+            _erepo = erepo;
+            _drepo = drepo;
         }
 
-        public async Task<List<ManagerEmployeeResponse>> FindAll()
+        public async Task<List<ManagerEmployeeResponse>> FindAll(string email)
         {
             var result = new List<ManagerEmployeeResponse>();
-            var list = await _repo.GetAllAsync();
+            var list = await _drepo.GetAllAsync();
             foreach (var item in list)
             {
-                result.Add(new ManagerEmployeeResponse
+                if(item.Members.Find(e => e.User.Email == email) != null)
                 {
-                    // TODO
-                });
+                    item.Members.ForEach(e =>
+                    {
+                        result.Add(new ManagerEmployeeResponse
+                        {
+                            UserId = e.UserId,
+                            Username = e.User.UserName,
+                            Email = e.User.Email,
+                            PhoneNumber = e.User.PhoneNumber,
+                            MetaId = e.User.MetaId,
+                            FirstName = e.User.Usermeta.FirstName,
+                            LastName = e.User.Usermeta.LastName,
+                            Dob = e.User.Usermeta.Dob,
+                            Sex = e.User.Usermeta.Sex,
+                            EmployeeId = e.Id,
+                            Position = e.Position,
+                            Hometown = e.Hometown,
+                            SupervisorId = e.SupervisorId,
+                            SupervisorName = e.Supervisor.User.Usermeta.FirstName + e.Supervisor.User.Usermeta.LastName
+                        });
+                    });
+                }
             }
             return result;
         }
 
-        public async Task<ManagerEmployeeResponse> FindById(string id)
+        public async Task<ManagerEmployeeResponse> FindById(string id, string email)
         {
-            var item = await _repo.GetAsync(id);
-            return new ManagerEmployeeResponse
+            var result = new List<ManagerEmployeeResponse>();
+            var list = await _drepo.GetAllAsync();
+            foreach ( var item in list)
             {
-                // TODO
-            };
+                if (item.Members.Find(e => e.User.Email == email) != null)
+                {
+                    var e = item.Members.Find(e => e.UserId ==  id);
+                    return new ManagerEmployeeResponse
+                    {
+                        UserId = e.UserId,
+                        Username = e.User.UserName,
+                        Email = e.User.Email,
+                        PhoneNumber = e.User.PhoneNumber,
+                        MetaId = e.User.MetaId,
+                        FirstName = e.User.Usermeta.FirstName,
+                        LastName = e.User.Usermeta.LastName,
+                        Dob = e.User.Usermeta.Dob,
+                        Sex = e.User.Usermeta.Sex,
+                        EmployeeId = e.Id,
+                        Position = e.Position,
+                        Hometown = e.Hometown,
+                        SupervisorId = e.SupervisorId,
+                        SupervisorName = e.Supervisor.User.Usermeta.FirstName + e.Supervisor.User.Usermeta.LastName
+                    };
+                }
+            }
+            return null!;
         }
 
         public async Task<string> Add(ManagerEmployeeRequest request)
