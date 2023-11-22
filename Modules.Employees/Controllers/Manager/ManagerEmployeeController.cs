@@ -1,7 +1,9 @@
-﻿using DataAccess.handler;
+﻿using DataAccess.Entities;
+using DataAccess.handler;
 using DataAccess.Repositories.DepartmentRepository;
 using DataAccess.Repositories.EmployeeRepository;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Modules.Employees.Controllers.Manager.Services;
 using Modules.Employees.Controllers.Manager.ViewModels.EmployeeVM;
@@ -22,28 +24,50 @@ namespace Modules.Employees.Controllers.Manager
         public ManagerEmployeeController(
             IEmployeeRepository repo1,
             IDepartmentRepository repo2,
-            IHttpContextAccessor accessor
+            IHttpContextAccessor accessor,
+            UserManager<User> usr
         )
         {
-            _svc = new ManagerEmployeeService(repo1, repo2);
+            _svc = new ManagerEmployeeService(repo1, repo2, usr);
             _accessor = accessor;
         }
 
+        /**
+         * Hành vi đọc toàn bộ nhân viên trong phòng ban của Manager
+         */
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            var token = handler.ReadJwtToken(
-                TerusAuthorizationHandler
-                    .NormalizedToken(_accessor.HttpContext!.Request.Headers.Authorization)
-            );
-
-            IEnumerable<Claim> claims = token.Claims;
-            var email = claims.FirstOrDefault(c => c.Type == ClaimTypes.Email)?.Value;
+            var email = GetManagerEmail();
             return Ok(await _svc.FindAll(email!));
         }
 
-        [HttpGet]
+        /**
+         * Hành vi đọc thông tin của 1 nhân viên cụ thể trong phòng ban của Manager
+         */
+        [HttpGet("{id}")]
         public async Task<IActionResult> Get(string id)
+        {
+            var email = GetManagerEmail();
+            return Ok(await _svc.FindById(id, email!));
+        }
+
+        /**
+         * Hành vi thay đổi chức vụ và người giám sát
+         */
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Edit(string id, ManagerEmployeeRequest request)
+        {
+            var email = GetManagerEmail();
+            await _svc.Update(id, request, email);
+            return Ok("Success");
+        }
+
+
+        /**
+         *  Hành vi lấy ra email của Manager
+         */
+        private string GetManagerEmail() 
         {
             var token = handler.ReadJwtToken(
                 TerusAuthorizationHandler
@@ -51,28 +75,7 @@ namespace Modules.Employees.Controllers.Manager
             );
 
             IEnumerable<Claim> claims = token.Claims;
-            var email = claims.FirstOrDefault(c => c.Type == ClaimTypes.Email)?.Value;
-            return Ok(await _svc.FindById(id, email!));
-        }
-
-        [HttpPost]
-        public async Task<IActionResult> Add(ManagerEmployeeRequest request)
-        {
-            return Ok(await _svc.Add(request));
-        }
-
-        [HttpPut]
-        public async Task<IActionResult> Update(string id, ManagerEmployeeRequest request)
-        {
-            await _svc.Update(id, request);
-            return Ok("Success");
-        }
-
-        [HttpDelete]
-        public async Task<IActionResult> Delete(string id)
-        {
-            await _svc.Remove(id);
-            return Ok("Success");
+            return claims.FirstOrDefault(c => c.Type == ClaimTypes.Email)?.Value!;
         }
     }
 }

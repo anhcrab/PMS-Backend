@@ -9,5 +9,6 @@ namespace DataAccess.Repositories.EmployeeRepository
         public Task<string> AddAsync(Employee model);
         public Task UpdateAsync(string id, Employee model);
         public Task DeleteAsync(string id);
+        public Task<Employee> GetByEmailAsync(string email);
     }
 }

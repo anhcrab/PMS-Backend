@@ -45,6 +45,11 @@ namespace DataAccess.Repositories.EmployeeRepository
             return e!;
         }
 
+        public Task<Employee> GetByEmailAsync(string email)
+        {
+            return _ctx.Employees!.FirstOrDefaultAsync(e => e.User.Email == email)!;
+        }
+
         public async Task UpdateAsync(string id, Employee model)
         {
             var employee = _ctx.Employees!.FirstOrDefault(e => e.Id == id);
